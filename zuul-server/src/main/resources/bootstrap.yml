@@ -1,0 +1,5 @@
+
+zuul:
+  sensitiveHeaders:
+        ignored-headers: Access-Control-Allow-Credentials, Access-Control-Allow-Origin
+    
