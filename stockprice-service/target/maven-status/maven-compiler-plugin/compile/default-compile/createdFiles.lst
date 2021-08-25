@@ -1,0 +1,5 @@
+com\s2\price\controller\PriceController.class
+com\s2\price\service\StockService.class
+com\s2\price\model\Stocks.class
+com\s2\price\StockpriceServiceApplication.class
+com\s2\price\repository\StocksRepository.class
